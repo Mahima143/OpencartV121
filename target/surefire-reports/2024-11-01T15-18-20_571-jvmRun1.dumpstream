@@ -1,0 +1,24 @@
+# Created at 2024-11-01T15:18:38.558
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2024-11-01 15:18:37) [WARN ] [ShareMenu] menu init.'.
+
+# Created at 2024-11-01T15:18:38.559
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2024-11-01 15:18:37) [ERROR] [ShareMenu] phone not connect.'.
+
+# Created at 2024-11-01T15:18:38.560
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2024-11-01 15:18:37) [ERROR] [ShareMenu] can not show menu.'.
+
+# Created at 2024-11-01T15:18:38.561
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2024-11-01 15:18:37) [WARN ] [HonorFileShareMenu] menu init.'.
+
+# Created at 2024-11-01T15:18:38.562
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2024-11-01 15:18:37) [WARN ] displayFlag = 1'.
+
+# Created at 2024-11-01T15:18:38.563
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2024-11-01 15:18:37) [WARN ] [HonorFileShareMenu] get menu text'.
+
+# Created at 2024-11-01T15:18:38.565
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2024-11-01 15:18:37) [WARN ] [ShareMenu] invoke command.'.
+
+# Created at 2024-11-01T15:18:38.592
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '(2024-11-01 15:18:37) [WARN ] [HonorFileShareMenu] invoke command.'.
+
